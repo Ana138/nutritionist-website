@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+media/
+staticfiles/
+local_settings.py
+db.sqlite3
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
+# node modules (if any)
+node_modules/
