@@ -31,3 +31,5 @@ assignees: ""
 - Navegador: [ex: Chrome, Firefox, Safari]
 - Versão do projeto: [ex: v1.0.0]
 
+## Observações adicionais
+<!-- Qualquer outra informação relevante -->
