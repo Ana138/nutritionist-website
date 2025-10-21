@@ -1,6 +1,6 @@
 # 🍎 Nutritionist Website
 
-Um site simples de nutrição desenvolvido em Python/Django.
+Um site simples voltado para nutrição desenvolvido em Python/Django
 
 ---
 
